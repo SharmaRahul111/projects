@@ -28,6 +28,7 @@ List of all my projects that I have done or would like to do in the future and o
 - Web server
 - Text editor
 - Web scraper / Website copier
+- Markdown parser for web
 
 ## Algorithms [[1](https://github.com/TheAlgorithms)]
 - Data structures
@@ -46,6 +47,8 @@ List of all my projects that I have done or would like to do in the future and o
 - Cell automata
 - Various game theory stuff
 - Fluid simulation
+- Chaotic Pendulum
+- Orbital mechanics / Solar System
 ## Games
 - Tetris
 - Ludo
