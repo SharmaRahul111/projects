@@ -1,6 +1,13 @@
 # Projects
 List of all my projects that I have done or would like to do in the future and other ideas
 
+### Note
+- ✅   - Initial Goal Achieved (still may get updates)
+- ✅✅ - Done (Prolly never touching it 😅)
+- ⏳   - Currently working on it
+- ⏳⏳ - Was working on it but delayed for underined time
+- ❌   - Probably won't do
+
 ## Apps
 - Synchronized todo / reminder
 - Money logging app
@@ -13,7 +20,7 @@ List of all my projects that I have done or would like to do in the future and o
 - AI player for the games I created
 ## From scratch
 - Programming language
-  - Brainfuck Interpreter [[1](https://github.com/sunjay/brainfuck/blob/master/brainfuck.md)]
+  - [Brainfuck Interpreter](https://github.com/SharmaRahul111/brainfuck) ⏳ [[1](https://github.com/sunjay/brainfuck/blob/master/brainfuck.md)] 
   - to Brainfuck Interpreter
   - A custom language
   - A compiler for any famous language
@@ -42,7 +49,7 @@ List of all my projects that I have done or would like to do in the future and o
 - Binary file readers (JPG, WAV, etc)
 
 ## Simulations
-- Conway's Game of life
+- [Conway's Game of life](https://github.com/SharmaRahul111/gol) ✅
 - Digital Logic Sim
 - Cell automata
 - Various game theory stuff
