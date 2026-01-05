@@ -5,6 +5,8 @@ List of all my projects that I have done or would like to do in the future and o
 - Synchronized todo / reminder
 - Money logging app
 - Movie recommendation and rating
+- File uploader / downloader (Basically ShareIt)
+- CASIO Calculator
 ## AI/ML
 - LLM [[1](https://github.com/rasbt/LLMs-from-scratch?tab=readme-ov-file)]
 - Digit identifier from 28x28 image
@@ -32,6 +34,8 @@ List of all my projects that I have done or would like to do in the future and o
 - Famous algorithms like A*, etc
 - Neural Network
 - Other AI/ML algorithms
+- Sudoku solver
+- Various mathematical calculator
 - Unit converters
 - Encoders and Decoders (base64, rot13, etc)
 - Binary file readers (JPG, WAV, etc)
@@ -52,6 +56,6 @@ List of all my projects that I have done or would like to do in the future and o
 - NAND to Tetris
 - Radu's self driving course
 ## Other resources
-- [Projects for C 
+- Projects for C 
   - [1](https://github.com/SWPFlow/C-Project-Based-Tutorials)
   - [2](https://github.com/nCally/Project-Based-Tutorials-in-C)
