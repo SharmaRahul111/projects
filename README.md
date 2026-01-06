@@ -57,6 +57,9 @@ List of all my projects that I have done or would like to do in the future and o
 - Chaotic Pendulum
 - Orbital mechanics / Solar System
 ## Games
+_clones mostly_
+- [Flappy bird](https://github.com/SharmaRahul111/flappy-bird) ✅
+- [Chrome dino](https://github.com/SharmaRahul111/chrome-dino) ✅
 - Tetris
 - Ludo
 - Chess
