@@ -66,8 +66,8 @@ _clones mostly_
 ## Concepts
 - The famous spinning donut
 ## Courses to complete
-- NAND to Tetris
-- Radu's self driving course
+- [NAND to Tetris](https://www.nand2tetris.org/)
+- [Radu's self driving course](https://www.youtube.com/@Radu)
 ## Other resources
 - Projects for C 
   - [1](https://github.com/SWPFlow/C-Project-Based-Tutorials)
