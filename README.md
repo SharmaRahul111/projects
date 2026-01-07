@@ -43,9 +43,11 @@ List of all my projects that I have done or would like to do in the future and o
 - Neural Network
 - Other AI/ML algorithms
 - Sudoku solver
+- explore the enigma machine
 - Various mathematical calculator
 - Unit converters
 - Encoders and Decoders (base64, rot13, etc)
+- Cryptographic algorithms
 - Binary file readers (JPG, WAV, etc)
 
 ## Simulations
