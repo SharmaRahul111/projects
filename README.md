@@ -1,5 +1,5 @@
 # Projects
-List of all my projects that I have done or would like to do in the future and other ideas
+List of all my projects that I have done or would like to do in the future and other ideas which I may not do
 
 ### Note
 - ✅   - Initial Goal Achieved (still may get updates)
@@ -65,6 +65,9 @@ _clones mostly_
 - Chess
 ## Concepts
 - The famous spinning donut
+## Utility/Libraries
+- Control panel for canvas projects
+- Boilerplate for canvas projects
 ## Courses to complete
 - [NAND to Tetris](https://www.nand2tetris.org/)
 - [Radu's self driving course](https://www.youtube.com/@Radu)
