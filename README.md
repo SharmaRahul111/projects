@@ -18,7 +18,7 @@ List of all my projects that I have done or would like to do in the future and o
 - LLM [[1](https://github.com/rasbt/LLMs-from-scratch?tab=readme-ov-file)]
 - Digit identifier from 28x28 image
 - AI player for the games I created
-## From scratch
+## Scratch / bare metal
 - Programming language
   - [Brainfuck Interpreter](https://github.com/SharmaRahul111/brainfuck) ⏳ [[1](https://github.com/sunjay/brainfuck/blob/master/brainfuck.md)] 
   - to Brainfuck Interpreter
