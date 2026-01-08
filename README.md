@@ -67,6 +67,10 @@ _clones mostly_
 - Tetris
 - Ludo
 - Chess
+- memory game
+- pong
+- atom
+- arrow hit
 ## Concepts
 - The famous spinning donut
 ## Utility/Libraries
