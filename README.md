@@ -17,6 +17,7 @@ List of all my projects that I have done or would like to do in the future and o
 ## AI/ML
 - LLM [[1](https://github.com/rasbt/LLMs-from-scratch?tab=readme-ov-file)]
 - Digit identifier from 28x28 image
+- Various AI projects using python libraries
 - AI player for the games I created
 ## Scratch / bare metal
 - Programming language
@@ -57,6 +58,7 @@ List of all my projects that I have done or would like to do in the future and o
 - Various game theory stuff
 - Fluid simulation
 - Chaotic Pendulum
+- fractals
 - Orbital mechanics / Solar System
 ## Games
 _clones mostly_
