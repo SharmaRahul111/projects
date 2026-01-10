@@ -21,7 +21,7 @@ List of all my projects that I have done or would like to do in the future and o
 - AI player for the games I created
 ## Scratch / bare metal
 - Programming language
-  - [Brainfuck Interpreter](https://github.com/SharmaRahul111/brainfuck) ⏳ [[1](https://github.com/sunjay/brainfuck/blob/master/brainfuck.md)] 
+  - [Brainfuck Interpreter](https://github.com/SharmaRahul111/brainfuck) ✅
   - to Brainfuck Interpreter
   - A custom language
   - A compiler for any famous language
