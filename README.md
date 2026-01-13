@@ -53,6 +53,7 @@ List of all my projects that I have done or would like to do in the future and o
 
 ## Simulations
 - [Conway's Game of life](https://github.com/SharmaRahul111/gol) ✅
+  - Allow an AI to play it
 - Digital Logic Sim
 - Cell automata
 - Various game theory stuff
