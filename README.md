@@ -57,6 +57,7 @@ List of all my projects that I have done or would like to do in the future and o
 - Cell automata
 - Various game theory stuff
 - Fluid simulation
+- sand physics
 - Chaotic Pendulum
 - fractals
 - Orbital mechanics / Solar System
