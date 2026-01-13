@@ -75,7 +75,7 @@ _clones mostly_
 ## Concepts
 - The famous spinning donut
 ## Utility/Libraries
-- Control panel for canvas projects
+- Control panel for canvas projects (publish on npm)
 - Boilerplate for canvas projects
 ## Courses to complete
 - [NAND to Tetris](https://www.nand2tetris.org/)
