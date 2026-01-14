@@ -21,7 +21,7 @@ List of all my projects that I have done or would like to do in the future and o
 - AI player for the games I created
 ## Scratch / bare metal
 - Programming language
-  - [Brainfuck Interpreter](https://github.com/SharmaRahul111/brainfuck) ✅
+  - [Brainfuck Interpreter](https://github.com/sharmarahul111/brainfuck) ✅
   - to Brainfuck Interpreter
   - A custom language
   - A compiler for any famous language
@@ -43,7 +43,7 @@ List of all my projects that I have done or would like to do in the future and o
 - Famous algorithms like A*, etc
 - Neural Network
 - Other AI/ML algorithms
-- Sudoku solver
+- [Sudoku solver](https://github.com/sharmarahul111/sudoku-solver) ⏳
 - explore the enigma machine
 - Various mathematical calculator
 - Unit converters
@@ -52,7 +52,7 @@ List of all my projects that I have done or would like to do in the future and o
 - Binary file readers (JPG, WAV, etc)
 
 ## Simulations
-- [Conway's Game of life](https://github.com/SharmaRahul111/gol) ✅
+- [Conway's Game of life](https://github.com/sharmarahul111/gol) ✅
   - Allow an AI to play it
 - Digital Logic Sim
 - Cell automata
@@ -64,8 +64,8 @@ List of all my projects that I have done or would like to do in the future and o
 - Orbital mechanics / Solar System
 ## Games
 _clones mostly_
-- [Flappy bird](https://github.com/SharmaRahul111/flappy-bird) ✅
-- [Chrome dino](https://github.com/SharmaRahul111/chrome-dino) ✅
+- [Flappy bird](https://github.com/sharmarahul111/flappy-bird) ✅
+- [Chrome dino](https://github.com/sharmarahul111/chrome-dino) ✅
 - Tetris
 - Ludo
 - Chess
@@ -74,6 +74,7 @@ _clones mostly_
 - snake
 - bubble shooter
 - memory game
+- minesweeper
 - pong
 - atom
 - arrow hit
