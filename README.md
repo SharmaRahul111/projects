@@ -69,6 +69,10 @@ _clones mostly_
 - Tetris
 - Ludo
 - Chess
+- block breaker
+- rapid roll
+- snake
+- bubble shooter
 - memory game
 - pong
 - atom
