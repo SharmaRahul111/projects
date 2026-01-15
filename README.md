@@ -5,7 +5,7 @@ List of all my projects that I have done or would like to do in the future and o
 - ✅   - Initial Goal Achieved (still may get updates)
 - ✅✅ - Done (Prolly never touching it 😅)
 - ⏳   - Currently working on it
-- ⏳⏳ - Was working on it but delayed for underined time
+- ⏳⏳ - Was working on it but delayed for undefined time
 - ❌   - Probably won't do
 
 ## Apps
