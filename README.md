@@ -66,6 +66,7 @@ List of all my projects that I have done or would like to do in the future and o
 _clones mostly_
 - [Flappy bird](https://github.com/sharmarahul111/flappy-bird) ✅
 - [Chrome dino](https://github.com/sharmarahul111/chrome-dino) ✅
+- Physics engine (scratch) based games (angry birds, etc)
 - Tetris
 - Ludo
 - Chess
