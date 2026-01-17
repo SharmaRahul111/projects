@@ -45,6 +45,7 @@ List of all my projects that I have done or would like to do in the future and o
 - Other AI/ML algorithms
 - [Sudoku solver](https://github.com/sharmarahul111/sudoku-solver) ⏳
 - explore the enigma machine
+- wave function collapse
 - Various mathematical calculator
 - Unit converters
 - Encoders and Decoders (base64, rot13, etc)
